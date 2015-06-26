@@ -1,0 +1,2 @@
+# AuctionAppPractice
+Create a single page auction website that enables people to post items and bid on items.  Here are the requirements: You should be able to post a new item to auction. An auction item should have an Id, Name, Description, MinimumBid, and NumberOfBids property. You should be able to enter a bid on existing auction item by entering your Name and BidAmount. An auction closes automatically after NumberOfBids is reached.
